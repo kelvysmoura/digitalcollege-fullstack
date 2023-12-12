@@ -1,0 +1,24 @@
+## Conteúdo da aula 08
+- Como criar um repositorio no github
+- Como configurar um repositorio local com um repositorio remoto
+- Comandos GIT
+  - git init
+  - git add
+  - git commit
+  - git clone
+  - git status
+  - git push
+  - git push --set-upstream origin master
+  - git log
+  - git remote
+  - git config --global
+
+- Comandos GIT Bash (Unix)
+  - ls
+  - cd
+  - rm -r
+  - rm -rf
+  - clear
+  - ls -a
+  - mkdir
+  - pwd
